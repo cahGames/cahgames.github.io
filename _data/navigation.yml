@@ -1,0 +1,7 @@
+main:
+- title: Game Design
+  url: /game-design
+- title: CTF Writeups
+  url: /writeups
+- title: CyberNotes
+  url: /cybernotes
