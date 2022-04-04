@@ -28,7 +28,7 @@ github_username:  cahGames
 # Build settings
 
 #UNCOMMENT THIS TO TEST THE SITE LOCALLY WHEN YOU DON'T HAVE INTERNET
-# theme: "minimal-mistakes-jekyll"
+#theme: "minimal-mistakes-jekyll"
 #IMPORTANT: COMMENT THE LINE ABOVE AND UNCOMMENT THIS BEFORE COMMITTING TO GIT
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
